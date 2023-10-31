@@ -1,5 +1,5 @@
-### Olá! Eu sou a Ana Stralioti! 👋 Estudante de Engenharia de Software. 
-## Hello there! I'm Ana! 👋 A Software Engineering student from Brazil!
+## Olá! Eu sou a Ana Stralioti! 👋 Estudante de Engenharia de Software. 
+### Hello there! I'm Ana! 👋 A Software Engineering student from Brazil!
 
 
 </div>
