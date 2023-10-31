@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Ana Stralioti! 👋 Estudante de Engenharia de Software. 
 ### Hello there! I'm Ana! 👋 A Software Engineering student from Brazil!
 
-
 </div>
 
 ⚡ Linguagens que venho tendo contato durante a graduação/Programming languages I've been learning nowadays:
