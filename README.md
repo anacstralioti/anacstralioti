@@ -1,4 +1,5 @@
 ### Olá! Eu sou a Ana Stralioti! 👋 Estudante de Engenharia de Software.
+</div>
 
 ⚡ Linguagens que venho tendo contato durante a graduação:
 <div> style="display: inline_block"><br>
