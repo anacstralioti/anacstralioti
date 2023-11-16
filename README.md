@@ -1,4 +1,4 @@
-## Hello there! I'm Ana! 👋 A Software Engineering student from Brazil!
+## Olá! Eu sou a Ana👋 Estudante do 3º semestre de Engenharia de Software!
 
 </div>
 
