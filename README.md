@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ana👋 Estudante do 4º semestre de Engenharia de Software!
+## Olá! Eu sou a Ana👋 Estudante do 5º semestre de Engenharia de Software!
 
 </div>
 
