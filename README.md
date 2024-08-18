@@ -1,4 +1,5 @@
-<h1>Olá! Eu sou a Ana👋 Estudante do terceiro ano de Engenharia de Software || Hello! I'm Ana 👋 3rd year Software Engineering student!</h1> 
+<h1>Hello! I'm Ana👋</h1> 
+<h2>I'm a 3rd year Software Engineering student!</h2>
 
 </div>
 <h2>⚡What I'm currently learning:</h2>
