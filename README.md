@@ -1,4 +1,4 @@
-<h1>Hello World! I'm Ana 👋 A 3rd year Software Engineering student!</h1> 
+<h1>Hello World! I'm Ana 👋 A 3rd year Software Engineering and a 1st year Systems Development student!</h1> 
 
 </div>
 <h4>⚡ I'm currently learning:</h4>
