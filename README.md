@@ -9,13 +9,17 @@
   <img align="center" alt="REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div>
-  
+
+## 
+
+<h4>Feel free to explore my projects, check out my code, and don't hesitate to contact me for any collaboration or questions!</h4>
+
+##
+
 <h4>📫 Contact me:</h4>
 <div> 
   <a href = "mailto:anastralioti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/anastralioti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-## 
 
-<h4>Feel free to explore my projects, check out my code, and don't hesitate to contact me for any collaboration or questions!</h4>
