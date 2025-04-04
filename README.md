@@ -16,4 +16,6 @@
   <a href="https://www.linkedin.com/in/anastralioti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-## Feel free to explore my projects, check out my code, and don't hesitate to contact me for any collaboration or questions!
+## 
+
+<h4>Feel free to explore my projects, check out my code, and don't hesitate to contact me for any collaboration or questions!</h4>
