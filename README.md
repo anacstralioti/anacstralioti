@@ -13,9 +13,6 @@
 ## 
 
 <h4>Feel free to explore my projects, check out my code, and don't hesitate to contact me for any collaboration or questions!</h4>
-
-##
-
 <h4>📫 Contact me:</h4>
 <div> 
   <a href = "mailto:anastralioti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
