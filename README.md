@@ -10,8 +10,6 @@
   
 </div>
 
-## 
-
 <h4>📫 Contact me:</h4>
 <div> 
   <a href = "mailto:anastralioti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
