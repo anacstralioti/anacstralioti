@@ -1,11 +1,15 @@
 <h1>Hello World! I'm Ana 👋 A final-year Software Engineering and a final-year Systems Development student!</h1> 
 
 </div>
-<h4>⚡ I'm currently learning and working with:</h4>
+<h4>I'm currently working with:</h4>
 <div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+<h4>And I'm studying:</h4>
+<div>
   <img align="center" alt="Django" height="30" width="40" src="https://devicon-website.vercel.app/api/django/plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <h4>📫 Contact me:</h4>
