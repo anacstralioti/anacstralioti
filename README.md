@@ -1,7 +1,7 @@
 <h1>Hello World! I'm Ana 👋 A final-year Software Engineering and Systems Development student!</h1> 
 
 </div>
-<h4>I'm currently working with JS and studying Game development and Python with the Framework Django.</h4>
+<h4>I'm currently working with JS and Game development, also studying Python with the Framework Django.</h4>
 
 <h4>You can contact me:</h4>
 <div> 
