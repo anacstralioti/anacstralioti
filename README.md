@@ -1,7 +1,7 @@
-<h1>Hello World! I'm Ana 👋 I'm a final-year Software Engineering student!</h1> 
+<h1>Hello World! I'm Ana 👋 I'm a Software Engineering!</h1> 
 
 </div>
-<h4>I'm a dev currently working with JS and studying Game Development and Python with the Framework Django.</h4>
+<h4>I'm a dev currently working with JS.</h4>
 
 <h4>You can contact me:</h4>
 <div> 
